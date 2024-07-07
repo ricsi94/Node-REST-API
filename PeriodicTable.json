@@ -1,0 +1,32 @@
+[
+	{
+		"name": "Hydrogen",
+		"symbol": "H",
+		"atomicnumber": 1,
+		"weight": 1
+	},
+	{
+		"name": "Helium",
+		"symbol": "He",
+		"atomicnumber": 2,
+		"weight": 4
+	},
+	{
+		"name": "Lithium",
+		"symbol": "Li",
+		"atomicnumber": 3,
+		"weight": 7
+	},
+	{
+		"name": "Beryllium",
+		"symbol": "Be",
+		"atomicnumber": 4,
+		"weight": 9
+	},
+	{
+		"name": "Boron",
+		"symbol": "B",
+		"atomicnumber": 5,
+		"weight": 11
+	}
+]
